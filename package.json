@@ -19,6 +19,7 @@
   "dependencies": {
     "express-graphql": "^0.6.12",
     "graphql": "^0.13.2",
-    "humps": "^2.0.1"
+    "humps": "^2.0.1",
+    "node-eureka-mauth": "git+ssh://git@github.com/mdsol/node-eureka-mauth.git#1.0.0"
   }
 }
