@@ -1,0 +1,19 @@
+{
+  "name": "taliesin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skwon-mdsol/taliesin.git"
+  },
+  "author": "Sean Kwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skwon-mdsol/taliesin/issues"
+  },
+  "homepage": "https://github.com/skwon-mdsol/taliesin#readme"
+}
